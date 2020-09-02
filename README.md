@@ -4,7 +4,7 @@ Roll, jump and slide Schrodinger’s cat through a 1 hour story adventure with 8
 Open the Windows, Mac, Linux or Android releases, start the game. You will reach the main menu.
 ![mainMenu](https://github.com/Erikkre/Quantumscape/blob/master/extraReadmeFiles/mainMenu.gif)
 Lower or raise your display resolution or graphics settings as required to run smoothly.
-![settingsMenu](https://github.com/Erikkre/Quantumscape/blob/master/extraReadmeFiles/settingsMenu.png)
+![settingsMenu](https://github.com/Erikkre/Quantumscape/blob/master/extraReadmeFiles/settingsMenu.PNG)
 Meet the characters as they give background and information on how to beat the game, as well as the movement controls.
 ![tutorialStart](https://github.com/Erikkre/Quantumscape/blob/master/extraReadmeFiles/tutorialStart.gif)
 Afterwards, navigate the main Portal Room by choosing easy, medium, hard or the hardest sets of levels. You can switch between them by going through conveniently placed portals both in the Portal Room and in each level.
