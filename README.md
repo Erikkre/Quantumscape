@@ -1,9 +1,7 @@
-# Quantumscape
+![mainMenu](https://github.com/Erikkre/Quantumscape/blob/master/extraReadmeFiles/mainMenu.gif)\
 Roll, jump and slide Schrodinger’s cat through a 1 hour story adventure with 8 distinct QuantumGates and portals navigating 16 multi-stage 3D levels designed to educate and enthrall any player. Discover a funny helpful dancing robot, dynamic soundtrack, character voices, progression and settings persistence, branching dialogue options and an engaging set of learn-as-you-go puzzle levels.
 # Quick Start Guide
-Open the Windows, Mac, Linux or Android releases, start the game. You will reach the main menu.\
-![mainMenu](https://github.com/Erikkre/Quantumscape/blob/master/extraReadmeFiles/mainMenu.gif)\
-Lower or raise your display resolution or graphics settings as required to run smoothly.\
+Open the Windows, Mac, Linux or Android releases, start the game. You will reach the main menu. In the display and graphics settings, lower or raise the presets as required to run smoothly.\
 ![settingsMenu](https://github.com/Erikkre/Quantumscape/blob/master/extraReadmeFiles/settingsMenu.PNG)\
 Meet the characters as they give background and information on how to beat the game, as well as the movement controls.\
 ![tutorialStart](https://github.com/Erikkre/Quantumscape/blob/master/extraReadmeFiles/tutorialStart.gif)\
